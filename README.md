@@ -10,13 +10,9 @@ The training dataset contains information on 10,683 international flights, spann
   It includes the following features: 
   
     Airline: The name of the airline.
-    
     Date_of_Journey: The date of the journey
-    
     Source: The source from which the service begins.
-    
     Destination: The destination where the service ends.
-    
     Route: The route taken by the flight to reach the destination.
     Dep_Time: The time when the journey starts from the source.
     Arrival_Time: Time of arrival at the destination.
@@ -26,3 +22,9 @@ The training dataset contains information on 10,683 international flights, spann
     Price: The price of the ticket
     
  **Steps:**
+ 
+Data Analysis
+Feature Engineering (handle categorical variables)
+Feature Selection (use LASSO Regression to select the best set of features)
+Building the model (Randomg Forest Regression)
+Apply Auto-Sklearn (automate the process of selecting the best model and hyperparameters for the given dataset)
