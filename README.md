@@ -5,7 +5,9 @@
 This project aims at building a Machine Learning model which can predict the price of a flight ticket. 
 
 **Data:** 
+
   The training dataset contains information on 10,683 international flights, spanning the months between March and June of 2019. 
+  
   It includes the following features: 
     Airline: The name of the airline.
     Date_of_Journey: The date of the journey
