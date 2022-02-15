@@ -27,4 +27,4 @@ Data Analysis
 Feature Engineering (handle categorical variables)
 Feature Selection (use LASSO Regression to select the best set of features)
 Building the model (Randomg Forest Regression)
-Apply Auto-Sklearn (automate the process of selecting the best model and hyperparameters for the given dataset)
+Apply Auto-Sklearn (automate the process of selecting the best model and hyperparameters for the given dataset) 
